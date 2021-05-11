@@ -28,6 +28,7 @@ namespace QLTT.Models
         public virtual DbSet<DANGTIN> DANGTINs { get; set; }
         public virtual DbSet<DUYETTIN> DUYETTINs { get; set; }
         public virtual DbSet<LOAITIN> LOAITINs { get; set; }
+        public virtual DbSet<sysdiagram> sysdiagrams { get; set; }
         public virtual DbSet<TAIKHOAN> TAIKHOANs { get; set; }
         public virtual DbSet<THELOAI> THELOAIs { get; set; }
         public virtual DbSet<TINTUC> TINTUCs { get; set; }

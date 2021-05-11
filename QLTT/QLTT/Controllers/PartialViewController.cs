@@ -34,15 +34,23 @@ namespace QLTT.Controllers
             var query = db.THELOAIs.ToList();
             return PartialView(query);
         }
-        public ActionResult _TheLoaiSidebar ()
+        public ActionResult _TheLoaiSidebar()
         {
             var query = db.THELOAIs.ToList();
             return PartialView(query);
         }
-        public ActionResult _TinTucTheoTheLoai ()
+
+        //Error
+        public ActionResult _TinTucTheoTheLoai()
         {
             var query = db.TINTUCs.ToList();
             return PartialView(query.Take(3));
+        }
+        /*-------------------------------------------------Updated----------------------------------------------*/
+        public ActionResult _TheLoaiNavbar()
+        {
+            var query = db.THELOAIs.ToList();
+            return PartialView(query);
         }
     }
 }

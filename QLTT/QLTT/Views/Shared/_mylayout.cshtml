@@ -49,7 +49,8 @@
                     </button>
                     <a class="navbar-brand" href="#"><img src="images/logo.png" alt="img" class="mobile_logo_width" /></a>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav mr-auto">
+                        @*-------------------------------------------------Updated----------------------------------------------*@
+                        @*<ul class="navbar-nav mr-auto">
                             <li class="nav-item active">
                                 <a class="nav-link" href="/Home/Index">Trang chủ<span class="sr-only"></span></a>
                             </li>
@@ -71,7 +72,8 @@
                             <li class="nav-item ">
                                 <a class="nav-link" href="/Home/Esports">E-Sports<span class="sr-only">(current)</span></a>
                             </li>
-                        </ul>
+                        </ul>*@
+                        @{ Html.RenderAction("_TheLoaiNavbar","PartialView");}
                     </div>
                 </nav>
             </div>
@@ -100,7 +102,7 @@
                             <li><a href="/Home/TheThao" class=""><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Thể thao</a></li>
                         </ul>*@
 
-                        @{ Html.RenderAction("_MucLuc","PartialView");}
+                        @{ Html.RenderAction("_MucLuc", "PartialView");}
                     </div>
                     <div class="col-12 col-md-5 col-lg-3 position_footer_relative">
                         <div class="footer_main_title py-3"> Most Viewed Posts</div>

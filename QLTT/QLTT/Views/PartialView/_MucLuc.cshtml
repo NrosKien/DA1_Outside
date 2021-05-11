@@ -5,8 +5,7 @@
     @{
         foreach (var item in Model)
         {
-            <li>@Html.ActionLink(item.TenTheLoai,"Index","Home", new { theLoai = item.MaTheLoai.Trim()},"")</li>
+            <li>@Html.ActionLink(item.TenTheLoai, "Index", "Home", new { theLoai = item.MaTheLoai.Trim() }, "")</li>
         }
     }
 </ul>
-

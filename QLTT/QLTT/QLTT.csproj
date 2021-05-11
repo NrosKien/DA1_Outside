@@ -1806,7 +1806,6 @@
     <Content Include="Content\images\download %282%29.jpg" />
     <Content Include="Content\images\download.jpg" />
     <Content Include="Content\images\footer_sub_tipik.png" />
-    <Content Include="Content\images\giai-dau-xgaming-uec-2021-giai-thuong03_hqzp.jpg" />
     <Content Include="Content\images\image_Biden.jpg" />
     <Content Include="Content\images\joe-gardner-75333.jpg" />
     <Content Include="Content\images\logo.png" />
@@ -1886,6 +1885,9 @@
       <DependentUpon>TinTucModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\LOAITIN.cs">
+      <DependentUpon>TinTucModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\sysdiagram.cs">
       <DependentUpon>TinTucModel.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\TAIKHOAN.cs">
@@ -2120,6 +2122,7 @@
     <Content Include="Views\PartialView\_TinTucFooter.cshtml" />
     <Content Include="Views\PartialView\_MucLuc.cshtml" />
     <Content Include="Views\PartialView\_TheLoaiSidebar.cshtml" />
+    <Content Include="Views\PartialView\_TheLoaiNavbar.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

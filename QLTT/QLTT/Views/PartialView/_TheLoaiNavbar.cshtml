@@ -1,0 +1,12 @@
+﻿@using QLTT.Models
+@model List<THELOAI>
+
+<ul class="navbar-nav mr-auto">
+    <li class="nav-item"><a href="Home/Index" class="nav-link">Trang chủ</a></li>
+    @{
+        foreach (var item in Model)
+        {
+            <li class="nav-item">@Html.ActionLink(item.TenTheLoai, "Index", "Home", new { theLoai = item.MaTheLoai.Trim()}, new { @class = "nav-link"})</li>
+        }
+    }
+</ul>

@@ -32,6 +32,16 @@
     <Property Name="TenLoaiTin" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="TINTUCs" Relationship="Self.FK_TINTUC_LOAITIN" FromRole="LOAITIN" ToRole="TINTUC" />
   </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
   <EntityType Name="TAIKHOAN">
     <Key>
       <PropertyRef Name="ID" />
@@ -132,6 +142,7 @@
     <EntitySet Name="DANGTINs" EntityType="Self.DANGTIN" />
     <EntitySet Name="DUYETTINs" EntityType="Self.DUYETTIN" />
     <EntitySet Name="LOAITINs" EntityType="Self.LOAITIN" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
     <EntitySet Name="TAIKHOANs" EntityType="Self.TAIKHOAN" />
     <EntitySet Name="THELOAIs" EntityType="Self.THELOAI" />
     <EntitySet Name="TINTUCs" EntityType="Self.TINTUC" />

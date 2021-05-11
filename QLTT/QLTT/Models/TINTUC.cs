@@ -11,8 +11,9 @@ namespace QLTT.Models
 {
     using System;
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations.Schema;
     using System.ComponentModel.DataAnnotations;
-    
+
     public partial class TINTUC
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -30,7 +31,11 @@ namespace QLTT.Models
 
         [DataType(DataType.Date)]
         public Nullable<System.DateTime> Ngay_TinTuc { get; set; }
+
+        [DisplayFormat(ConvertEmptyStringToNull = false)]
         public string MaTheLoai { get; set; }
+
+        [DisplayFormat(ConvertEmptyStringToNull = false)]
         public string MaLoaiTin { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

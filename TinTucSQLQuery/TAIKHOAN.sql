@@ -1,4 +1,5 @@
-
+USE [TinTuc]
+GO
 
 /****** Object:  Table [dbo].[TAIKHOAN]    Script Date: 04/25/2021 21:40:20 ******/
 SET ANSI_NULLS ON
