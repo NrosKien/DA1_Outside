@@ -1,0 +1,23 @@
+
+
+/****** Object:  Table [dbo].[TAIKHOAN]    Script Date: 04/25/2021 21:40:20 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TAIKHOAN](
+	[ID] [nvarchar](200) NOT NULL,
+	[Password] [nvarchar](200) NULL,
+	[HoTen] [nvarchar](200) NULL,
+	[Email] [nvarchar](200) NULL,
+	[Role] [nvarchar](50) NULL,
+ CONSTRAINT [PK_TAIKHOAN] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+

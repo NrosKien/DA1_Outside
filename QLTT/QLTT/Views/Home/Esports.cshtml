@@ -1,0 +1,26 @@
+﻿@model IEnumerable<QLTT.Models.TINTUC>
+
+@{
+    ViewBag.Title = "Esports";
+    Layout = "~/Views/Shared/_mylayout.cshtml";
+}
+
+<h4 class="m-2 font-weight-bold" style="border-bottom: solid #cccccc 2px;">E-Sports</h4>
+<div class="container">
+    <div class="row m-1">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm">
+                <div class="card" style="width: 18rem; border: solid #fade82 2px;">
+                    <img src="@Url.Content(item.Hinh_Link)" class="card-img-top" alt="News_Img" />
+                    <div class="card-body p-2">
+                        <a href="/Main/ChiTiet/@item.MaTinTuc" class="stretched-link"><h5 class="card-title font-weight-bold">@Html.DisplayFor(model => item.TieuDe)</h5></a>
+                        <h8 class="card-subtitle text-muted" style="border-bottom: solid #cccccc 1px;">@Html.DisplayFor(model => item.Ngay_TinTuc) | @Html.DisplayFor(model => item.THELOAI.TenTheLoai)</h8>
+                        <p class="card-text my-2">@Html.DisplayFor(model => item.MoTa)</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

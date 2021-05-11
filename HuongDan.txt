@@ -1,0 +1,3 @@
+1. TINTUCDATABASE có thể thay đổi Tên Database và thay đổi tất cả Query sao cho trùng Tên Database. 
+2. Hinh_Link trong Table TINTUC là lấy Link như sau: 
+	~/Content/images/Tên hình.jpg

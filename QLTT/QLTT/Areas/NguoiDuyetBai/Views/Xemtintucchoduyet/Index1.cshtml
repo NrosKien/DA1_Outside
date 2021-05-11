@@ -1,0 +1,82 @@
+﻿@model PagedList.IPagedList<QLTT.Areas.NguoiDangBai.Models.TINTUC>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index1";
+    Layout = "~/Areas/NguoiDuyetBai/Views/Shared/_Layout2.cshtml";
+}
+<table class="table">
+    <tr>
+        <th>
+            Mã tin tức
+        </th>
+        <th>
+            Tiêu đề
+        </th>
+        <th>
+            Mã thể loại
+        </th>
+        <th>
+            Mã loại tin
+        </th>
+        <th>
+            Link file
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Tác Giả
+        </th>
+        <th>
+            Trạng thái
+        </th>
+        <th>
+            Ngày đăng
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTinTuc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TieuDe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTheLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLoaiTin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LinkFile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDang)
+            </td>
+
+        </tr>
+    }
+
+</table>
+
+<!-- Thêm mã phân trang -->
+<br />
+        Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+        @Html.PagedListPager(Model, page => Url.Action("Index1",
+            new { page }))
+        <!-- Kết thúc -->
+       
+

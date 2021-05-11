@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DANGTIN">
+    <Key>
+      <PropertyRef Name="MaDangTin" />
+    </Key>
+    <Property Name="MaDangTin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NgayDang" Type="date" />
+    <Property Name="MaTinTuc" Type="int" />
+    <Property Name="ID" Type="nvarchar" MaxLength="200" />
+    <Property Name="File_DangTin" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="DUYETTIN">
+    <Key>
+      <PropertyRef Name="MaDuyetTin" />
+    </Key>
+    <Property Name="MaDuyetTin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NgayDuyet" Type="date" />
+    <Property Name="MaDangTin" Type="int" />
+    <Property Name="TrangThai" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgayDuocDang" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LOAITIN">
+    <Key>
+      <PropertyRef Name="MaLoaiTin" />
+    </Key>
+    <Property Name="MaLoaiTin" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenLoaiTin" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="TAIKHOAN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="Password" Type="nvarchar" MaxLength="200" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="200" />
+    <Property Name="Email" Type="nvarchar" MaxLength="200" />
+    <Property Name="Role" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="THELOAI">
+    <Key>
+      <PropertyRef Name="MaTheLoai" />
+    </Key>
+    <Property Name="MaTheLoai" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenTheLoai" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="TINTUC">
+    <Key>
+      <PropertyRef Name="MaTinTuc" />
+    </Key>
+    <Property Name="MaTinTuc" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TieuDe" Type="nvarchar" MaxLength="200" />
+    <Property Name="MoTa" Type="nvarchar" MaxLength="200" />
+    <Property Name="File_Link" Type="nvarchar(max)" />
+    <Property Name="Hinh_Link" Type="nvarchar(max)" />
+    <Property Name="TacGia" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ngay_TinTuc" Type="date" />
+    <Property Name="MaTheLoai" Type="nvarchar" MaxLength="50" />
+    <Property Name="MaLoaiTin" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_DANGTIN_TAIKHOAN">
+    <End Role="TAIKHOAN" Type="Self.TAIKHOAN" Multiplicity="0..1" />
+    <End Role="DANGTIN" Type="Self.DANGTIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TAIKHOAN">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="DANGTIN">
+        <PropertyRef Name="ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DANGTIN_TINTUC">
+    <End Role="TINTUC" Type="Self.TINTUC" Multiplicity="0..1" />
+    <End Role="DANGTIN" Type="Self.DANGTIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TINTUC">
+        <PropertyRef Name="MaTinTuc" />
+      </Principal>
+      <Dependent Role="DANGTIN">
+        <PropertyRef Name="MaTinTuc" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DUYETTIN_DANGTIN">
+    <End Role="DANGTIN" Type="Self.DANGTIN" Multiplicity="0..1" />
+    <End Role="DUYETTIN" Type="Self.DUYETTIN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DANGTIN">
+        <PropertyRef Name="MaDangTin" />
+      </Principal>
+      <Dependent Role="DUYETTIN">
+        <PropertyRef Name="MaDangTin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TINTUC_LOAITIN">
+    <End Role="LOAITIN" Type="Self.LOAITIN" Multiplicity="0..1" />
+    <End Role="TINTUC" Type="Self.TINTUC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOAITIN">
+        <PropertyRef Name="MaLoaiTin" />
+      </Principal>
+      <Dependent Role="TINTUC">
+        <PropertyRef Name="MaLoaiTin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TINTUC_THELOAI">
+    <End Role="THELOAI" Type="Self.THELOAI" Multiplicity="0..1" />
+    <End Role="TINTUC" Type="Self.TINTUC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="THELOAI">
+        <PropertyRef Name="MaTheLoai" />
+      </Principal>
+      <Dependent Role="TINTUC">
+        <PropertyRef Name="MaTheLoai" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TTModelStoreContainer">
+    <EntitySet Name="DANGTIN" EntityType="Self.DANGTIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DUYETTIN" EntityType="Self.DUYETTIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOAITIN" EntityType="Self.LOAITIN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TAIKHOAN" EntityType="Self.TAIKHOAN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="THELOAI" EntityType="Self.THELOAI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TINTUC" EntityType="Self.TINTUC" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DANGTIN_TAIKHOAN" Association="Self.FK_DANGTIN_TAIKHOAN">
+      <End Role="TAIKHOAN" EntitySet="TAIKHOAN" />
+      <End Role="DANGTIN" EntitySet="DANGTIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DANGTIN_TINTUC" Association="Self.FK_DANGTIN_TINTUC">
+      <End Role="TINTUC" EntitySet="TINTUC" />
+      <End Role="DANGTIN" EntitySet="DANGTIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DUYETTIN_DANGTIN" Association="Self.FK_DUYETTIN_DANGTIN">
+      <End Role="DANGTIN" EntitySet="DANGTIN" />
+      <End Role="DUYETTIN" EntitySet="DUYETTIN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TINTUC_LOAITIN" Association="Self.FK_TINTUC_LOAITIN">
+      <End Role="LOAITIN" EntitySet="LOAITIN" />
+      <End Role="TINTUC" EntitySet="TINTUC" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TINTUC_THELOAI" Association="Self.FK_TINTUC_THELOAI">
+      <End Role="THELOAI" EntitySet="THELOAI" />
+      <End Role="TINTUC" EntitySet="TINTUC" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

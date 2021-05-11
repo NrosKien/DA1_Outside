@@ -1,0 +1,318 @@
+D:\QLTT\QLTT\bin\QLTT.dll.config
+D:\QLTT\QLTT\bin\QLTT.dll
+D:\QLTT\QLTT\bin\QLTT.pdb
+D:\QLTT\QLTT\bin\roslyn\csc.exe
+D:\QLTT\QLTT\bin\roslyn\csc.exe.config
+D:\QLTT\QLTT\bin\roslyn\csc.rsp
+D:\QLTT\QLTT\bin\roslyn\csi.exe
+D:\QLTT\QLTT\bin\roslyn\csi.exe.config
+D:\QLTT\QLTT\bin\roslyn\csi.rsp
+D:\QLTT\QLTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QLTT\QLTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\QLTT\QLTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLTT\QLTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\QLTT\QLTT\bin\roslyn\System.AppContext.dll
+D:\QLTT\QLTT\bin\roslyn\System.Collections.Immutable.dll
+D:\QLTT\QLTT\bin\roslyn\System.Console.dll
+D:\QLTT\QLTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\QLTT\QLTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\QLTT\QLTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QLTT\QLTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\QLTT\QLTT\bin\roslyn\System.IO.Compression.dll
+D:\QLTT\QLTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.dll
+D:\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QLTT\QLTT\bin\roslyn\System.Net.Http.dll
+D:\QLTT\QLTT\bin\roslyn\System.Net.Sockets.dll
+D:\QLTT\QLTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLTT\QLTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\QLTT\QLTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\QLTT\QLTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\QLTT\QLTT\bin\roslyn\System.ValueTuple.dll
+D:\QLTT\QLTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\QLTT\QLTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\QLTT\QLTT\bin\roslyn\System.Xml.XPath.dll
+D:\QLTT\QLTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\QLTT\QLTT\bin\roslyn\vbc.exe
+D:\QLTT\QLTT\bin\roslyn\vbc.exe.config
+D:\QLTT\QLTT\bin\roslyn\vbc.rsp
+D:\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe
+D:\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe.config
+D:\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLTT\QLTT\bin\Microsoft.Web.Infrastructure.dll
+D:\QLTT\QLTT\bin\System.Web.Helpers.dll
+D:\QLTT\QLTT\bin\System.Web.Mvc.dll
+D:\QLTT\QLTT\bin\System.Web.Razor.dll
+D:\QLTT\QLTT\bin\System.Web.Webpages.Deployment.dll
+D:\QLTT\QLTT\bin\System.Web.Webpages.dll
+D:\QLTT\QLTT\bin\System.Web.Webpages.Razor.dll
+D:\QLTT\QLTT\bin\System.Web.Razor.xml
+D:\QLTT\QLTT\bin\System.Web.Webpages.xml
+D:\QLTT\QLTT\bin\System.Web.Webpages.Deployment.xml
+D:\QLTT\QLTT\bin\System.Web.Webpages.Razor.xml
+D:\QLTT\QLTT\bin\System.Web.Helpers.xml
+D:\QLTT\QLTT\bin\System.Web.Mvc.xml
+D:\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLTT\QLTT\obj\Debug\QLTT.csprojAssemblyReference.cache
+D:\QLTT\QLTT\obj\Debug\QLTT.csproj.CoreCompileInputs.cache
+D:\QLTT\QLTT\obj\Debug\QLTT.csproj.CopyComplete
+D:\QLTT\QLTT\obj\Debug\QLTT.dll
+D:\QLTT\QLTT\obj\Debug\QLTT.pdb
+D:\QLTT\QLTT\bin\EntityFramework.dll
+D:\QLTT\QLTT\bin\EntityFramework.SqlServer.dll
+D:\QLTT\QLTT\bin\EntityFramework.xml
+D:\QLTT\QLTT\bin\EntityFramework.SqlServer.xml
+D:\QLTT\QLTT\bin\PagedList.dll
+D:\QLTT\QLTT\bin\PagedList.Mvc.dll
+D:\QLTT\QLTT\bin\PagedList.xml
+D:\QLTT\QLTT\bin\PagedList.Mvc.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\QLTT.dll.config
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\QLTT.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\QLTT.pdb
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csc.exe
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csc.exe.config
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csc.rsp
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csi.exe
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csi.exe.config
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\csi.rsp
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.AppContext.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Console.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Net.Http.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\vbc.exe
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\vbc.exe.config
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\vbc.rsp
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\EntityFramework.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\EntityFramework.SqlServer.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\PagedList.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\PagedList.Mvc.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Helpers.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Mvc.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Razor.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.Razor.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\EntityFramework.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\EntityFramework.SqlServer.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\PagedList.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\PagedList.Mvc.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Razor.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Webpages.Razor.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Helpers.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\System.Web.Mvc.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vyy\Downloads\QLTT\QLTT\obj\Debug\QLTT.csprojAssemblyReference.cache
+C:\Users\Vyy\Downloads\QLTT\QLTT\obj\Debug\QLTT.csproj.CoreCompileInputs.cache
+C:\Users\Vyy\Downloads\QLTT\QLTT\obj\Debug\QLTT.csproj.CopyComplete
+C:\Users\Vyy\Downloads\QLTT\QLTT\obj\Debug\QLTT.dll
+C:\Users\Vyy\Downloads\QLTT\QLTT\obj\Debug\QLTT.pdb
+D:\Đồ án 1\QLTT\QLTT\bin\QLTT.dll.config
+D:\Đồ án 1\QLTT\QLTT\bin\QLTT.dll
+D:\Đồ án 1\QLTT\QLTT\bin\QLTT.pdb
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csc.exe
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csc.exe.config
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csc.rsp
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csi.exe
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csi.exe.config
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\csi.rsp
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.AppContext.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Console.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.IO.Compression.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Net.Http.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.ValueTuple.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\vbc.exe
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\vbc.exe.config
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\vbc.rsp
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án 1\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án 1\QLTT\QLTT\bin\EntityFramework.dll
+D:\Đồ án 1\QLTT\QLTT\bin\EntityFramework.SqlServer.dll
+D:\Đồ án 1\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án 1\QLTT\QLTT\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ án 1\QLTT\QLTT\bin\PagedList.dll
+D:\Đồ án 1\QLTT\QLTT\bin\PagedList.Mvc.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Helpers.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Mvc.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Razor.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.Deployment.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.dll
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.Razor.dll
+D:\Đồ án 1\QLTT\QLTT\bin\EntityFramework.xml
+D:\Đồ án 1\QLTT\QLTT\bin\EntityFramework.SqlServer.xml
+D:\Đồ án 1\QLTT\QLTT\bin\PagedList.xml
+D:\Đồ án 1\QLTT\QLTT\bin\PagedList.Mvc.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Razor.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.Deployment.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Webpages.Razor.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Helpers.xml
+D:\Đồ án 1\QLTT\QLTT\bin\System.Web.Mvc.xml
+D:\Đồ án 1\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án 1\QLTT\QLTT\obj\Debug\QLTT.csprojResolveAssemblyReference.cache
+D:\Đồ án 1\QLTT\QLTT\obj\Debug\QLTT.dll
+D:\Đồ án 1\QLTT\QLTT\obj\Debug\QLTT.pdb
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\QLTT.dll.config
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\QLTT.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\QLTT.pdb
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csc.exe
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csc.exe.config
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csc.rsp
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csi.exe
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csi.exe.config
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\csi.rsp
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.AppContext.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Collections.Immutable.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Console.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.IO.Compression.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Net.Http.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Net.Sockets.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.ValueTuple.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Xml.XPath.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\vbc.exe
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\vbc.exe.config
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\vbc.rsp
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\roslyn\VBCSCompiler.exe.config
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\EntityFramework.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\EntityFramework.SqlServer.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\Microsoft.Web.Infrastructure.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\PagedList.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\PagedList.Mvc.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Helpers.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Mvc.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Razor.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.Deployment.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.Razor.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\EntityFramework.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\EntityFramework.SqlServer.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\PagedList.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\PagedList.Mvc.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Razor.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.Deployment.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Webpages.Razor.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Helpers.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\System.Web.Mvc.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\obj\Debug\QLTT.csprojAssemblyReference.cache
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\obj\Debug\QLTT.csproj.CoreCompileInputs.cache
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\obj\Debug\QLTT.csproj.CopyComplete
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\obj\Debug\QLTT.dll
+D:\NoName\WebTinTuc(Database_LoadData)\QLTT\QLTT\obj\Debug\QLTT.pdb

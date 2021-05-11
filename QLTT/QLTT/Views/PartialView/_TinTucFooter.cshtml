@@ -1,0 +1,7 @@
+﻿@model IEnumerable<QLTT.Models.TINTUC>
+    @foreach (var item in Model)
+    {
+        <div class="footer_makes_sub_font">@Html.DisplayFor(model => item.Ngay_TinTuc)</div>
+        <a href="/Home/ChiTiet/@item.MaTinTuc" class="footer_post pb-4">@Html.DisplayFor(model => item.TieuDe) </a>         
+    }
+

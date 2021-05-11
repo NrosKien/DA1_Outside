@@ -1,0 +1,7 @@
+﻿@using QLTT.Models
+@model List<THELOAI>
+
+@foreach (var item in Model)
+{
+    <a href="@Url.Action("Index","Home", new { theLoai = item.MaTheLoai.Trim()},"")" class="fh5co_tagg">@item.TenTheLoai</a>
+}

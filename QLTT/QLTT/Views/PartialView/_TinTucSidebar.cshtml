@@ -1,0 +1,14 @@
+﻿@model IEnumerable<QLTT.Models.TINTUC>
+
+@foreach (var item in Model)
+{
+    <div class="row pb-3">
+        <div class="col-5 align-self-center">
+            <img src="@Url.Content(item.Hinh_Link)" alt="img" class="fh5co_most_trading" />
+        </div>
+        <div class="col-7 padding">
+            <div class="most_fh5co_treding_font_123"><a href="/Home/ChiTiet/@item.MaTinTuc">@Html.DisplayFor(model => item.TieuDe)</a></div>
+            <div class="most_fh5co_treding_font_123">@Html.DisplayFor(model => item.Ngay_TinTuc) | @Html.DisplayFor(model => item.THELOAI.TenTheLoai)</div>
+        </div>
+    </div>
+}
